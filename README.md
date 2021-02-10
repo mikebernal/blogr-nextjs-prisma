@@ -1,5 +1,9 @@
 # Authentication with NextJS and NextAuth
 
+## Kanban board
+
+ https://github.com/mikebernal/blogr-nextjs-prisma/projects/1
+
 ## Technologies:
 
 1. NextJS
